@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ECN 301: Intermediate Microeconomics | Moto Yoshihara</title>
-    <link>https://motoyoshihara.github.io/&#39;/teaching/310/</link>
-      <atom:link href="https://motoyoshihara.github.io/'/teaching/310/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://motoyoshihara.github.io/teaching/310/</link>
+      <atom:link href="https://motoyoshihara.github.io/teaching/310/index.xml" rel="self" type="application/rss+xml" />
     <description>ECN 301: Intermediate Microeconomics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://motoyoshihara.github.io/&#39;/teaching/310/featured.png</url>
+      <url>https://motoyoshihara.github.io/teaching/310/featured.png</url>
       <title>ECN 301: Intermediate Microeconomics</title>
-      <link>https://motoyoshihara.github.io/&#39;/teaching/310/</link>
+      <link>https://motoyoshihara.github.io/teaching/310/</link>
     </image>
     
     <item>
       <title>Enrolling in ECN 310</title>
-      <link>https://motoyoshihara.github.io/&#39;/teaching/310/enrolling/</link>
+      <link>https://motoyoshihara.github.io/teaching/310/enrolling/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://motoyoshihara.github.io/&#39;/teaching/310/enrolling/</guid>
+      <guid>https://motoyoshihara.github.io/teaching/310/enrolling/</guid>
       <description>&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Flyer</title>
-      <link>https://motoyoshihara.github.io/&#39;/teaching/310/flyer/</link>
+      <link>https://motoyoshihara.github.io/teaching/310/flyer/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://motoyoshihara.github.io/&#39;/teaching/310/flyer/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://motoyoshihara.github.io/'/%27/uploads/310_flyer2.pdf&#34;&gt;ECN 310&lt;/a&gt;&lt;/p&gt;
+      <guid>https://motoyoshihara.github.io/teaching/310/flyer/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://motoyoshihara.github.io/uploads/310_flyer2.pdf&#34;&gt;ECN 310&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ECN 606: Microeconomic Analysis | Moto Yoshihara</title>
-    <link>https://motoyoshihara.github.io/&#39;/courses/606/</link>
-      <atom:link href="https://motoyoshihara.github.io/'/courses/606/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://motoyoshihara.github.io/courses/606/</link>
+      <atom:link href="https://motoyoshihara.github.io/courses/606/index.xml" rel="self" type="application/rss+xml" />
     <description>ECN 606: Microeconomic Analysis</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://motoyoshihara.github.io/&#39;/courses/606/featured.jpg</url>
+      <url>https://motoyoshihara.github.io/courses/606/featured.jpg</url>
       <title>ECN 606: Microeconomic Analysis</title>
-      <link>https://motoyoshihara.github.io/&#39;/courses/606/</link>
+      <link>https://motoyoshihara.github.io/courses/606/</link>
     </image>
     
     <item>
       <title>Logistics</title>
-      <link>https://motoyoshihara.github.io/&#39;/courses/606/logistics/</link>
+      <link>https://motoyoshihara.github.io/courses/606/logistics/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://motoyoshihara.github.io/&#39;/courses/606/logistics/</guid>
+      <guid>https://motoyoshihara.github.io/courses/606/logistics/</guid>
       <description>&lt;h2 id=&#34;course-schedule&#34;&gt;Course schedule&lt;/h2&gt;
 &lt;p&gt;For Fall 2021, ECN 606 meets from 9:30 – 11:00 a.m. on Mondays and Wednesdays and Fridays from 9:30 – 11:30 a.m. in Eggers 018. I plan to teach entirely in person.&lt;/p&gt;
 &lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
-&lt;p&gt;The syllabus for Fall 2021 is &lt;a href=&#34;https://motoyoshihara.github.io/'/%27/uploads/Syllabus_606.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The syllabus for Fall 2021 is &lt;a href=&#34;https://motoyoshihara.github.io/uploads/Syllabus_606.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;course-website&#34;&gt;Course website&lt;/h2&gt;
 &lt;p&gt;All course materials are on Syracuse University&amp;rsquo;s &lt;a href=&#34;https://blackboard.syr.edu/webapps/portal/frameset.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blackboard&lt;/a&gt;. Students gain access to the website by enrolling in the course.&lt;/p&gt;
 &lt;h2 id=&#34;note-on-ecn-601&#34;&gt;Note on ECN 601&lt;/h2&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>Textbooks</title>
-      <link>https://motoyoshihara.github.io/&#39;/courses/606/textbooks/</link>
+      <link>https://motoyoshihara.github.io/courses/606/textbooks/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://motoyoshihara.github.io/&#39;/courses/606/textbooks/</guid>
+      <guid>https://motoyoshihara.github.io/courses/606/textbooks/</guid>
       <description>&lt;h2 id=&#34;required-text&#34;&gt;Required text&lt;/h2&gt;
 &lt;p&gt;I have listed one textbook as required for the course, mainly because it is nearly encyclopedic in its coverage of microeconomic theory and is the gold standard in the field; also because your other professors will require it:&lt;/p&gt;
 &lt;ul&gt;
@@ -129,7 +129,7 @@
 &lt;li&gt;Varian (2006), &amp;ldquo;Intermediate Microeconomics : A Modern Approach,&amp;rdquo; Norton, 7th Edition [Baby Varian].&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;math-references&#34;&gt;Math references&lt;/h2&gt;
-&lt;p&gt;For math references, I find the appendices of MWG often inaccessible and am not aware of others that are comprehensive. I do, however, like KrepsNew&amp;rsquo;s appendices on Real Analysis and Convexity. I am a huge fan of the book listed below on optimization by Dixit as well as Simon and Blume&amp;rsquo;s math for economists book. I will integrate parts of Binmore&amp;rsquo;s and Velleman&amp;rsquo;s books in class and suggest them as background preparation for anyone without a background in Real Analysis. I have made available a list of &lt;a href=&#34;https://motoyoshihara.github.io/&#39;/courses/606/math/&#34;&gt;Real Analysis&lt;/a&gt; topics from Corbae et al. with which you should endeavor to be familiar. Corbae et al. presents the material in a more complex way than what is needed for our purposes, so the list is useful as a reference but I don&amp;rsquo;t suggest using this as a text to learn the concepts.&lt;/p&gt;
+&lt;p&gt;For math references, I find the appendices of MWG often inaccessible and am not aware of others that are comprehensive. I do, however, like KrepsNew&amp;rsquo;s appendices on Real Analysis and Convexity. I am a huge fan of the book listed below on optimization by Dixit as well as Simon and Blume&amp;rsquo;s math for economists book. I will integrate parts of Binmore&amp;rsquo;s and Velleman&amp;rsquo;s books in class and suggest them as background preparation for anyone without a background in Real Analysis. I have made available a list of &lt;a href=&#34;https://motoyoshihara.github.io/courses/606/math/&#34;&gt;Real Analysis&lt;/a&gt; topics from Corbae et al. with which you should endeavor to be familiar. Corbae et al. presents the material in a more complex way than what is needed for our purposes, so the list is useful as a reference but I don&amp;rsquo;t suggest using this as a text to learn the concepts.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Dixit (1990), &amp;ldquo;Optimization in Economic Theory,&amp;rdquo; Oxford University Press, Second Edition.&lt;/li&gt;
 &lt;li&gt;Simon and Blume (1994), &amp;ldquo;Mathematics for Economists,&amp;rdquo; Norton.&lt;/li&gt;
@@ -143,10 +143,10 @@
     
     <item>
       <title>Real analysis</title>
-      <link>https://motoyoshihara.github.io/&#39;/courses/606/math/</link>
+      <link>https://motoyoshihara.github.io/courses/606/math/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://motoyoshihara.github.io/&#39;/courses/606/math/</guid>
-      <description>&lt;p&gt;Chapter and section references are from Corbae, Stinchcombe and Juraj (2009), &amp;ldquo;An Introduction to Mathematical Analysis for Economic Theory and Econometrics.&#39;&#39; I only recommend you follow Corbae et al. if you are already comfortable with highly-technical math. Otherwise, use this list of topics as guidance while using one of the recommended sources on the &lt;a href=&#34;https://motoyoshihara.github.io/&#39;/courses/606/textbooks/&#34;&gt;Textbooks&lt;/a&gt; page.&lt;/p&gt;
+      <guid>https://motoyoshihara.github.io/courses/606/math/</guid>
+      <description>&lt;p&gt;Chapter and section references are from Corbae, Stinchcombe and Juraj (2009), &amp;ldquo;An Introduction to Mathematical Analysis for Economic Theory and Econometrics.&#39;&#39; I only recommend you follow Corbae et al. if you are already comfortable with highly-technical math. Otherwise, use this list of topics as guidance while using one of the recommended sources on the &lt;a href=&#34;https://motoyoshihara.github.io/courses/606/textbooks/&#34;&gt;Textbooks&lt;/a&gt; page.&lt;/p&gt;
 &lt;h2 id=&#34;logic&#34;&gt;Logic&lt;/h2&gt;
 &lt;p&gt;Chapter 1 in Corbae, Stinchcombe and Juraj (2009)&lt;/p&gt;
 &lt;table&gt;
@@ -767,14 +767,14 @@
     
     <item>
       <title>Week 1 Preparation</title>
-      <link>https://motoyoshihara.github.io/&#39;/courses/606/prep_week1/</link>
+      <link>https://motoyoshihara.github.io/courses/606/prep_week1/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://motoyoshihara.github.io/&#39;/courses/606/prep_week1/</guid>
+      <guid>https://motoyoshihara.github.io/courses/606/prep_week1/</guid>
       <description>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;
 &lt;p&gt;This note substitutes until the week before classes start for an announcement on Blackboard&amp;ndash;the usual way of telling you what to prepare for each class. This is to allow time for everyone to register and be added to Blackboard.&lt;/p&gt;
 &lt;p&gt;What follows is an overview of what you should prepare for the first portion of producer theory, which I anticipate we will cover in our first 2-3 lectures (August 30, September 1 and perhaps September 6).&lt;/p&gt;
 &lt;h2 id=&#34;topic-list&#34;&gt;Topic list&lt;/h2&gt;
-&lt;p&gt;You will find the &lt;a href=&#34;https://motoyoshihara.github.io/'/%27/uploads/Production_Topic_List.pdf&#34;&gt;Production Topic List&lt;/a&gt; in the Production folder once you access Blackboard. It has notations for the primary text source for each topic. These topic lists are the key to guiding your preparation and studying in each section of the course.&lt;/p&gt;
+&lt;p&gt;You will find the &lt;a href=&#34;https://motoyoshihara.github.io/uploads/Production_Topic_List.pdf&#34;&gt;Production Topic List&lt;/a&gt; in the Production folder once you access Blackboard. It has notations for the primary text source for each topic. These topic lists are the key to guiding your preparation and studying in each section of the course.&lt;/p&gt;
 &lt;h2 id=&#34;economic-concepts&#34;&gt;Economic concepts&lt;/h2&gt;
 &lt;p&gt;We begin with production sets, production functions, and properties of technologies (MWG 5.B). You should have a basic understanding of the difference between production sets and production functions as well as familiarity with the properties of technologies listed on the topic list before our first class on Monday, August 30.&lt;/p&gt;
 &lt;p&gt;We will quickly check in to answer any questions about these commonly-assumed properties of production sets from the reading; then we&amp;rsquo;ll see which of these properties we can identify/falsify in the isoquant representation of technologies. You should be familiar with isoquants from math camp. When this is done, we’ll move on to important properties associated with isoquants such as the marginal rate of technical substitution and related concepts such as marginal product, marginal rate of transformation and elasticity of substitution in the production context.&lt;/p&gt;

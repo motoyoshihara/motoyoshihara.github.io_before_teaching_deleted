@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moto Yoshihara</title>
-    <link>https://motoyoshihara.github.io/&#39;/links/habits/</link>
-      <atom:link href="https://motoyoshihara.github.io/'/links/habits/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://motoyoshihara.github.io/links/habits/</link>
+      <atom:link href="https://motoyoshihara.github.io/links/habits/index.xml" rel="self" type="application/rss+xml" />
     <description>Moto Yoshihara</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://motoyoshihara.github.io/&#39;/media/icon_hu6f8f60d0b9c95755d2ab1ecb0697efa7_389829_512x512_fill_lanczos_center_2.png</url>
+      <url>https://motoyoshihara.github.io/media/icon_hu6f8f60d0b9c95755d2ab1ecb0697efa7_389829_512x512_fill_lanczos_center_2.png</url>
       <title>Moto Yoshihara</title>
-      <link>https://motoyoshihara.github.io/&#39;/links/habits/</link>
+      <link>https://motoyoshihara.github.io/links/habits/</link>
     </image>
     
     <item>
       <title>Habits</title>
-      <link>https://motoyoshihara.github.io/&#39;/links/habits/habits/</link>
+      <link>https://motoyoshihara.github.io/links/habits/habits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://motoyoshihara.github.io/&#39;/links/habits/habits/</guid>
+      <guid>https://motoyoshihara.github.io/links/habits/habits/</guid>
       <description>&lt;H2&gt;Conceptual tools&lt;/H2&gt;
 &lt;ul&gt;
  	&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/lecture/learning-how-to-learn/zombies-everywhere-p7wRU&#34;&gt;What IS a habit?&lt;/a&gt;
