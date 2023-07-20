@@ -2,53 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://motoyoshihara.github.io/example/python/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/example/visualization/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/courses/606/logistics/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/example/stats/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/courses/606/textbooks/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/courses/606/math/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/courses/606/prep_week1/</loc>
-    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/courses/606/</loc>
-    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/courses/</loc>
-    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://motoyoshihara.github.io/research/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://motoyoshihara.github.io/post/hi-hugo/</loc>
     <lastmod>2021-06-15T09:59:58-04:00</lastmod>
   </url><url>
-    <loc>https://motoyoshihara.github.io/post/</loc>
+    <loc>https://motoyoshihara.github.io/</loc>
     <lastmod>2021-06-15T09:59:58-04:00</lastmod>
   </url><url>
-    <loc>https://motoyoshihara.github.io/example/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+    <loc>https://motoyoshihara.github.io/post/</loc>
+    <lastmod>2021-06-15T09:59:58-04:00</lastmod>
   </url><url>
     <loc>https://motoyoshihara.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
@@ -98,17 +62,8 @@
     <loc>https://motoyoshihara.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://motoyoshihara.github.io/courses/510/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://motoyoshihara.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://motoyoshihara.github.io/publication-type/2/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
@@ -140,46 +95,16 @@
     <loc>https://motoyoshihara.github.io/publication/necessary_and_sufficient/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://motoyoshihara.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/courses/365/</loc>
-    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://motoyoshihara.github.io/admin/</loc>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/links/</loc>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/links/habits/</loc>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/links/summer_exp/</loc>
   </url><url>
     <loc>https://motoyoshihara.github.io/publication-type/3/</loc>
   </url><url>
     <loc>https://motoyoshihara.github.io/contact/</loc>
   </url><url>
-    <loc>https://motoyoshihara.github.io/links/habits/habits/</loc>
-  </url><url>
     <loc>https://motoyoshihara.github.io/teaching/301/</loc>
   </url><url>
     <loc>https://motoyoshihara.github.io/publication/lost_the_battle/</loc>
   </url><url>
-    <loc>https://motoyoshihara.github.io/links/summer_exp/summer/</loc>
-  </url><url>
     <loc>https://motoyoshihara.github.io/teaching/</loc>
-  </url><url>
-    <loc>https://motoyoshihara.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
 </urlset>
